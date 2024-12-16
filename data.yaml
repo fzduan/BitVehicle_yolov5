@@ -1,0 +1,4 @@
+train: F:/yolov5/train_data/images
+val: F:/yolov5/val_data/images
+nc: 6
+names: ['Bus', 'Microbus', 'Minivan', 'Sedan', 'SUV', 'Truck']
